@@ -1,0 +1,10 @@
+nothing in here
+
+aws ec2 run-instances --image-id ami-089539692cca55c6c  --instance-type t2.micro --key-name june2021
+    
+    ec2-user@ip-172-31-38-31 ~]$ history
+    1  sudo amazon-linux-extras install nginx1
+    2  sudo systemctl start nginx
+    3  sudo systemctl status nginx
+    4  curl local host
+    5  curl localhost
