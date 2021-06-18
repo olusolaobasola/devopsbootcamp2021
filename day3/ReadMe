@@ -1,0 +1,12 @@
+***************************************************************************************
+
+TECHBLEAT DAY 3 HOMEWORK
+
+creating a new branch for a new virtual machine instance push called- terraform-in-progress
+Bootstrap document was created to intsall nginx on te machine
+Terraform code all looking good
+Terrafform ignore file created to seperate the .tfstate file into a backend S3 bucket
+Public Ip can be check on the output file
+A pull request will be made to merge Terraform-in-progress Branch to Master Branch
+
+*******************************************************************************************
