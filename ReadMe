@@ -1,1 +1,3 @@
 To manage EC2 creating
+
+I created a virtaul machine by using aws cli and also installing nginx on the virtual machine to make it a web server
