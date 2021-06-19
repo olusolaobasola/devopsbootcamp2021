@@ -1,1 +1,39 @@
-Master branch
+All created on terraform-in-progress
+
+TECHBLEAT DAY 3 HOMEWORK
+
+***************************************************************************************
+TASK
+•	You have been asked to extend your Transformer code to allow:
+•	Terraform state file to be stored remotely
+•	Create a ReadMe document for your work
+•	Push your code to a new branch - call it terraform-in-progress
+•	Create a PR and merge your code to master branch
+
+***************************************************************************************
+
+
+
+***************************************************************************************
+WORKDONE DESCRIPTION
+
+Cloned repo to new folder Documents/DEVOPSJUNE2021 TASKS/Day3task
+
+Created a new branch  terraform-in-progress2
+
+Bootstrap document was created to intsall nginx on the machine
+
+Terraform code set up to create virtua instance and S3 backend
+
+S3 Back end created manually on aws cli
+
+Terrafform ignore file created to seperate the .tfstate file 
+
+Pull request made to merge Terraform-in-progress Branch to Master Branch
+
+*******************************************************************************************
+
+
+
+
+
